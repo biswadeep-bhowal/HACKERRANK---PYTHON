@@ -1,5 +1,7 @@
 n = int(input().strip())
 
+# The strip() function removes whitespaces from the left and right sides.
+
 if n%2!=0:
     print('Weird')
 
