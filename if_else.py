@@ -1,7 +1,5 @@
 n = int(input().strip())
 
-#print(n)
- 
 if n%2!=0:
     print('Weird')
 
